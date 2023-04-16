@@ -1,0 +1,10 @@
+[20,14,5,2]
+20-14-5-2 compara 20 e 14: troca
+14-20-5-2 compara 20 e 5: troca
+14-5-20-2 compara 20 e 2: troca
+14-5-2-20 compara 14 e 5: troca
+5-14-2-20 compara 14 e dois: troca
+5-2-14-20 compara 14 e 20: nao troca
+5-2-14-20 compara 5 e 2: troca
+2-5-14-20
+7 comparações e 6 trocas

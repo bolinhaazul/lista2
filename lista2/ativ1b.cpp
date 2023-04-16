@@ -20,10 +20,11 @@ void funcao_b(int v[], int n)
     aux = v[i];
     v[i] = v[min];
     v[min] = aux;
-  }
-  for (i = 0; i < n; i++)
-  {
-    cout << v[i] << " ";
+    for (int k = 0; k < n; k++)
+    {
+      cout << v[k] << " ";
+    }
+    cout << endl;
   }
 }
 

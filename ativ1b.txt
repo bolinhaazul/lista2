@@ -1,0 +1,15 @@
+0 8 1 5 2 3 9 10 4 7
+0 1 8 5 2 3 9 10 4 7
+0 1 2 5 8 3 9 10 4 7
+0 1 2 3 8 5 9 10 4 7
+0 1 2 3 4 5 9 10 8 7
+0 1 2 3 4 5 9 10 8 7
+0 1 2 3 4 5 7 10 8 9
+0 1 2 3 4 5 7 8 10 9
+0 1 2 3 4 5 7 8 9 10
+
+o método utilizado aqui foi o selection sort,
+pode-se observar que a cada passagem o algoritmo 
+seleciona um valor mínimo e o compara com os outros elementos da lista
+caso seja menor ele troca de lugar e seleciona um novo elemento como
+mínimo.

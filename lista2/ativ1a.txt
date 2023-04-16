@@ -1,8 +1,6 @@
-insertion sort
+insertion sort ele analisa os elementos da lista volta comparando e insere 
+o elemento na posição adequada.
 7 8 1 5 2 3 9 10 4 0
-comparou se o vetor na posicao 0 e maior que a posicao 1.
-comparou com a posiçao 2 e mandou a posicao 2 para a posicao 0.
-trocando posicao 2 recebe posicao 1 e posicao 1 recebe posicao 0.
 1 7 8 5 2 3 9 10 4 0
 1 5 7 8 2 3 9 10 4 0
 1 2 5 7 8 3 9 10 4 0
